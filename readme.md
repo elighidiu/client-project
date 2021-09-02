@@ -25,8 +25,6 @@ OlaFresco needs a website for meal orders
 - An admin section to manage meal deliveries
 - Member profile allow to specify user allergies that automatically filter meals
 
-This website will look a lot like [hellofresh](https://hellofresh.com/)
-
 #### Mockup version available [here](https://www.figma.com/file/bR8axYT8RxT9jez0PcEakP/Untitled?node-id=0%3A3)
 ![Alt text](mockup.png "Mockup")
 
